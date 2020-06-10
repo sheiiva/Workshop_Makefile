@@ -8,4 +8,4 @@ In this repository:
 * [Examples](https://github.com/sheiiva/Workshop_Makefile/tree/master/examples) (code)
 
 
-Author [**Corentin COUTRET-ROZET**](https://github.com/sheiiva)
+Authors [**Corentin COUTRET-ROZET**](https://github.com/sheiiva) and [**Patricia MONFA-MATAS**](https://github.com/patumm)
